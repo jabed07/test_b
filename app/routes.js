@@ -41,6 +41,7 @@ app.get('/api/languages/:language_id', function (req, res) {
     //    res.cookie('i18n', 'ar');
     //    res.cookie('cookies.language', 'ar');
     // console.log(res);
+    
         getLanguage(res);
         
     });

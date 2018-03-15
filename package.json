@@ -1,7 +1,7 @@
 {
   "name": "test-bhive",
   "version": "0.0.1",
-  "description": "Simple localisation.",
+  "description": "server side localisation.",
   "main": "server.js",
   "author": "javed",
   "dependencies": {
